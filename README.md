@@ -1,4 +1,4 @@
-<h1> **Built a static website using HTML and CSS. Based on the crash course by "DesignCourse".** </h1>
+<h1> Built a static website using HTML and CSS. Based on the crash course by "DesignCourse" </h1>
 
 In the following picture, you can see the final result:
 
